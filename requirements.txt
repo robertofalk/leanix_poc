@@ -1,0 +1,10 @@
+ai-api-client-sdk
+generative-ai-hub-sdk
+packaging
+generative-ai-hub-sdk[all]
+wikipedia
+streamlit
+SQLAlchemy
+apscheduler
+nltk
+rouge-score
